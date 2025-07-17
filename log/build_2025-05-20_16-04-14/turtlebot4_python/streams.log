@@ -1,0 +1,48 @@
+[0.616s] Invoking command in '/home/ister/turtlebot4_ws/src/turtlebot4_python': PYTHONPATH=/home/ister/turtlebot4_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot4_python build --build-base /home/ister/turtlebot4_ws/build/turtlebot4_python/build install --record /home/ister/turtlebot4_ws/build/turtlebot4_python/install.log --single-version-externally-managed install_data
+[0.722s] running egg_info
+[0.722s] creating ../../build/turtlebot4_python/turtlebot4_python.egg-info
+[0.722s] writing ../../build/turtlebot4_python/turtlebot4_python.egg-info/PKG-INFO
+[0.723s] writing dependency_links to ../../build/turtlebot4_python/turtlebot4_python.egg-info/dependency_links.txt
+[0.723s] writing entry points to ../../build/turtlebot4_python/turtlebot4_python.egg-info/entry_points.txt
+[0.723s] writing requirements to ../../build/turtlebot4_python/turtlebot4_python.egg-info/requires.txt
+[0.723s] writing top-level names to ../../build/turtlebot4_python/turtlebot4_python.egg-info/top_level.txt
+[0.723s] writing manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+[0.724s] reading manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+[0.724s] writing manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+[0.724s] running build
+[0.724s] running build_py
+[0.724s] creating /home/ister/turtlebot4_ws/build/turtlebot4_python/build
+[0.724s] creating /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib
+[0.724s] creating /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+[0.724s] copying turtlebot4_python/turtlebot4_python_node.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+[0.724s] copying turtlebot4_python/move_robot.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+[0.725s] copying turtlebot4_python/robot_gui.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+[0.725s] copying turtlebot4_python/__init__.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+[0.725s] copying turtlebot4_python/audio.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+[0.725s] running install
+[0.725s] running install_lib
+[0.725s] creating /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+[0.725s] copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/turtlebot4_python_node.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+[0.725s] copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/move_robot.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+[0.725s] copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/robot_gui.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+[0.725s] copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/__init__.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+[0.726s] copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/audio.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+[0.726s] byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/turtlebot4_python_node.py to turtlebot4_python_node.cpython-310.pyc
+[0.726s] byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/move_robot.py to move_robot.cpython-310.pyc
+[0.726s] byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/robot_gui.py to robot_gui.cpython-310.pyc
+[0.727s] byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/__init__.py to __init__.cpython-310.pyc
+[0.727s] byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/audio.py to audio.cpython-310.pyc
+[0.728s] running install_data
+[0.728s] creating /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index
+[0.728s] creating /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index/resource_index
+[0.728s] creating /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index/resource_index/packages
+[0.728s] copying resource/turtlebot4_python -> /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index/resource_index/packages
+[0.728s] copying package.xml -> /home/ister/turtlebot4_ws/install/turtlebot4_python/share/turtlebot4_python
+[0.728s] running install_egg_info
+[0.729s] Copying ../../build/turtlebot4_python/turtlebot4_python.egg-info to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python-0.0.0-py3.10.egg-info
+[0.729s] running install_scripts
+[0.742s] Installing move_robot script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.742s] Installing robot_gui script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.742s] Installing turtlebot4_python_node script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.742s] writing list of installed files to '/home/ister/turtlebot4_ws/build/turtlebot4_python/install.log'
+[0.756s] Invoked command in '/home/ister/turtlebot4_ws/src/turtlebot4_python' returned '0': PYTHONPATH=/home/ister/turtlebot4_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot4_python build --build-base /home/ister/turtlebot4_ws/build/turtlebot4_python/build install --record /home/ister/turtlebot4_ws/build/turtlebot4_python/install.log --single-version-externally-managed install_data

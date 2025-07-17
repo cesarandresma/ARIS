@@ -1,0 +1,23 @@
+[0.329s] Invoking command in '/home/ister/turtlebot4_ws/src/turtlebot4_python': PYTHONPATH=/home/ister/turtlebot4_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot4_python build --build-base /home/ister/turtlebot4_ws/build/turtlebot4_python/build install --record /home/ister/turtlebot4_ws/build/turtlebot4_python/install.log --single-version-externally-managed install_data
+[0.452s] running egg_info
+[0.453s] writing ../../build/turtlebot4_python/turtlebot4_python.egg-info/PKG-INFO
+[0.453s] writing dependency_links to ../../build/turtlebot4_python/turtlebot4_python.egg-info/dependency_links.txt
+[0.453s] writing entry points to ../../build/turtlebot4_python/turtlebot4_python.egg-info/entry_points.txt
+[0.453s] writing requirements to ../../build/turtlebot4_python/turtlebot4_python.egg-info/requires.txt
+[0.453s] writing top-level names to ../../build/turtlebot4_python/turtlebot4_python.egg-info/top_level.txt
+[0.454s] reading manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+[0.455s] writing manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+[0.455s] running build
+[0.455s] running build_py
+[0.455s] running install
+[0.456s] running install_lib
+[0.456s] running install_data
+[0.456s] running install_egg_info
+[0.457s] removing '/home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python-0.0.0-py3.10.egg-info' (and everything under it)
+[0.458s] Copying ../../build/turtlebot4_python/turtlebot4_python.egg-info to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python-0.0.0-py3.10.egg-info
+[0.458s] running install_scripts
+[0.472s] Installing move_robot script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.472s] Installing robot_gui script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.472s] Installing turtlebot4_python_node script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.472s] writing list of installed files to '/home/ister/turtlebot4_ws/build/turtlebot4_python/install.log'
+[0.487s] Invoked command in '/home/ister/turtlebot4_ws/src/turtlebot4_python' returned '0': PYTHONPATH=/home/ister/turtlebot4_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot4_python build --build-base /home/ister/turtlebot4_ws/build/turtlebot4_python/build install --record /home/ister/turtlebot4_ws/build/turtlebot4_python/install.log --single-version-externally-managed install_data

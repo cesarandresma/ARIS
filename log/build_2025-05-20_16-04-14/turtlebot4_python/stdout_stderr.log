@@ -1,0 +1,46 @@
+running egg_info
+creating ../../build/turtlebot4_python/turtlebot4_python.egg-info
+writing ../../build/turtlebot4_python/turtlebot4_python.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot4_python/turtlebot4_python.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot4_python/turtlebot4_python.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot4_python/turtlebot4_python.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot4_python/turtlebot4_python.egg-info/top_level.txt
+writing manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot4_python/turtlebot4_python.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ister/turtlebot4_ws/build/turtlebot4_python/build
+creating /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib
+creating /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+copying turtlebot4_python/turtlebot4_python_node.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+copying turtlebot4_python/move_robot.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+copying turtlebot4_python/robot_gui.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+copying turtlebot4_python/__init__.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+copying turtlebot4_python/audio.py -> /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python
+running install
+running install_lib
+creating /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/turtlebot4_python_node.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/move_robot.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/robot_gui.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/__init__.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+copying /home/ister/turtlebot4_ws/build/turtlebot4_python/build/lib/turtlebot4_python/audio.py -> /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python
+byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/turtlebot4_python_node.py to turtlebot4_python_node.cpython-310.pyc
+byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/move_robot.py to move_robot.cpython-310.pyc
+byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/robot_gui.py to robot_gui.cpython-310.pyc
+byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python/audio.py to audio.cpython-310.pyc
+running install_data
+creating /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index
+creating /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index/resource_index
+creating /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index/resource_index/packages
+copying resource/turtlebot4_python -> /home/ister/turtlebot4_ws/install/turtlebot4_python/share/ament_index/resource_index/packages
+copying package.xml -> /home/ister/turtlebot4_ws/install/turtlebot4_python/share/turtlebot4_python
+running install_egg_info
+Copying ../../build/turtlebot4_python/turtlebot4_python.egg-info to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4_python-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move_robot script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing robot_gui script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_python_node script to /home/ister/turtlebot4_ws/install/turtlebot4_python/lib/turtlebot4_python
+writing list of installed files to '/home/ister/turtlebot4_ws/build/turtlebot4_python/install.log'

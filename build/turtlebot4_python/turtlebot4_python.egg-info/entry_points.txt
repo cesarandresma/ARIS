@@ -1,0 +1,5 @@
+[console_scripts]
+move_robot = turtlebot4_python.move_robot:main
+robot_gui = turtlebot4_python.robot_gui:main
+turtlebot4_python_node = turtlebot4_python.turtlebot4_python_node:main
+
